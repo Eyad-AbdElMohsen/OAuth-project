@@ -1,2 +1,1 @@
-# Starting-project
 # OAuth-project
